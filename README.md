@@ -6,7 +6,7 @@ I find some columns in this dataset to be very interesting. They include; Term, 
 # Summary
 During my exploration, I discovered that there was a strong correlation between the income of the borrower and the loan amount obtained. There is also a correlation between employment status and the loan obtained. The customers in the +$100,000 category do not seem to have pressing needs to obtain loans.
 Outside of the main features of interest it is worthy to note and conclude that;
-a.	the fact that a borrower is a homeowner improved their chances of getting a higher loan amount. 
+- the fact that a borrower is a homeowner improved their chances of getting a higher loan amount. 
 b.	most of the customers are credit worthy.
 c.  the Employed category has the highest returns, Full time in second and Self-employed in third place. However, the $25,000-$49,999 income range has the highest returns, with $50,000-$74,999 and +$100,000 in second and third places respectively.
 d.	there is a strong correlation between the employment status of customers and loans obtained.
