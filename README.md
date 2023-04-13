@@ -8,7 +8,7 @@ During my exploration, I discovered that there was a strong correlation between 
 Outside of the main features of interest it is worthy to note and conclude that;
 - the fact that a borrower is a homeowner improved their chances of getting a higher loan amount. 
 - most of the customers are credit worthy.
-- the Employed category has the highest returns, Full time in second and Self-employed in third place. However, the $25,000-$49,999 income range has the highest returns, with $50,000-$74,999 and +$100,000 in second and third places respectively.
+- the Employed category has the highest earning returns, Full time in second and Self-employed in third place. However, the $25,000-$49,999 income range has the highest earning returns, with $50,000-$74,999 and +$100,000 in second and third places respectively.
 - there is a strong correlation between the employment status of customers and loans obtained.
 - there is an increased likelihood of obtaining loans when income source is verifiable.
 - lots of customers opt for the 36 month term loan duration.
