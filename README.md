@@ -22,6 +22,6 @@ Outside of the main features of interest it is worthy to note and conclude that;
 - debt collection policies of Prosper Loan appear to be adequate as incidences of bad/cancelled loans are not a problem here.
 
 ## Key Insights
-- Prosper loan can make its loan facilities more attractive for potential and existing employed, full time and self employed customers in the $25,000-$49,999, $50,000-$74,999 and +$100,000 income bands residing in CA, TX and NY.
+- Prosper loan can make its loan facilities more attractive for potential and existing employed, full time and self employed customers in the $25,000-$49,999, $50,000-$74,999 and +$100,000 income bands residing in CA, TX and NY plus having relevant key occupations.
 - Social media campaigns and other forms of marketing should be stepped up to reach target customers in key income bands, employment status, and states.
 - Management decisions and plans to expand customer base is expedient.
